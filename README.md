@@ -1,4 +1,4 @@
-# Payload Ecommerce Template
+# Payload  Template
 
 A modern ecommerce storefront powered by Payload and Next.js. This template provides all the essential features to build and manage a beautiful online store.
 
